@@ -19,9 +19,9 @@ cron may look something like this (need to test)
 ## Help
 
 ```
-usage: py_cast.py [-h] [--discover] [--json_config JSON_CONFIG] [--force] [--debug] [--show_zeroconf_debug]
+usage: py_dashcast.py [-h] [--discover] [--json_config JSON_CONFIG] [--force] [--debug] [--show_zeroconf_debug]
 
-Example that shows how the DashCast controller can be used.
+Discover and cast urls to chromecasts
 
 optional arguments:
   -h, --help            show this help message and exit
