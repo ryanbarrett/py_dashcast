@@ -1,6 +1,7 @@
 # py_dashcast
 
-Script to launch urls on chromecast dashboards.
+Script to launch urls on chromecasts.
+
 
 ## Setup
 create a virtual environment and activate it; then install requirements.
@@ -34,3 +35,8 @@ optional arguments:
                         Enable debug log
 ```
 
+## Examples
+
+./examples includes ways to refresh a page within an iframe, 4-up display, and a page rotation. 
+
+This requires the ability to host a static webpage.
