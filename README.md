@@ -35,6 +35,14 @@ optional arguments:
                         Enable debug log
 ```
 
+## Note - Chromecast with Google TV
+
+Settings I've been testing to allow the Dashcast app to stay in the forefront. Rebooting via power cable is recommended.
+```
+ Disable ambient mode app: Settings > Apps > All apps > Set Ambient mode to disabled
+ Stay awake: Developer mode: Settings > System > About > Tap button on Build 7 times Developer menu > Stay Awake
+```
+
 ## Examples
 
 ./examples includes ways to refresh a page within an iframe, 4-up display, and a page rotation. 
